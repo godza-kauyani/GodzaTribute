@@ -1,0 +1,35 @@
+body
+{
+  font-size: 10pt;
+  height:100vh;
+  margin:0;
+  padding:0;
+  background-color:#e1f5fe;
+ 
+}
+#img-div{
+  box-shadow:5px 5px pink;
+  display:grid;
+  place-items:center;
+}
+#img-caption{
+  
+}
+#image{
+  width:max(90vw);
+  max-width:90vw;
+}
+.button {
+    display: block;
+    width: 115px;
+    height: 25px;
+    background: #4E9CAF;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+h1{
+  margin:0 auto;
+}
